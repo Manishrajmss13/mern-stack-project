@@ -1,4 +1,28 @@
-Output
+Project Description:
+
+This project is an automated website solution designed to streamline sales follow-ups and manage customer engagement. The platform includes a Sales Analytics Dashboard, Automated Company Data Management, and Email Tracking, making it a comprehensive tool for sales teams to improve efficiency and monitor performance.
+
+Project Contributions
+Sivaramji:
+
+Developed the Login page.
+Created the Dashboard:
+monthly page
+weekly page
+daily page
+product page
+
+Manish:
+
+Integrated Email Services for automated follow-ups.
+Designed and implemented the Employee Page.
+Developed additional Dashboard components, including:
+Geography view
+Transaction tracking
+Overall summary
+Customer Page for customer insights
+
+Output:
 ![image](https://github.com/user-attachments/assets/e8dec07f-d30f-4363-8167-7451767d3933)
 
 
